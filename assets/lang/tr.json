@@ -1,0 +1,62 @@
+{
+
+    "E-Mail": "Your Mail",
+    "Şifre": "Your Password",
+    "Profil Düzenle": " Edit Profile",
+    "Adres": " Adress",
+    "Bildirimler": "Notification",
+    "Odeme": "Payment", 
+    "Güvenlik": " Security",
+    "Politikalar": " Privacy Policy",
+    "Yardım": "Help",
+    "Arkadaşları Davet Et": " Invite Friends",
+    "Oturumu Kapat": " Sign Out",
+
+    "Günaydın": "Good Morning",
+    "Arama": "Search",
+    "Hepsini Gör": "See all",
+    "Popüler": "Most Popular",
+    "Hepsi": "All",
+    "Açıklama": "Description",
+    "Renk Seçeneği": "Colors",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    "Klavye" : "Keyboard",
+    "Hazır Kasa":"PC",
+    "Masa": "Table",
+    "Fare" :"Mouse",
+    "Dizüstü":"Laptop",
+    "Kulaklık":"Headset",
+    "Monitör":"Monitör",
+    "Diğer":"Others",
+    "Spesiyal": "Special Offers",
+
+
+    "home_title": "E-Ticaret Uygulamam",
+    "add_to_basket": "Sepete Ekle",
+    "products": "Urunler",
+    "favorites": "Favoriler",
+    "cart": "Sepet",
+    "in-stock": "Mevcut",
+    "not-available": "Tukendi",
+    "added-to-cart": "Urun Sepete Eklendi.",
+    "remove-favorite": "Favoriden Kaldir",
+    "remove-cart": "Sepetten Kaldir",
+    "cart-empty": "Sepetinizde hic urun bulunmamaktadir.",
+    "settings": "Ayarlar",
+    "connection-error": "Lutfen Internet Baglantinizi Kontrol Ediniz.",
+    "reload": "Yenile",
+    "select-language": "Lutfen Istediginiz Dili Seciniz:"
+}

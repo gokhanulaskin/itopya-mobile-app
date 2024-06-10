@@ -1,0 +1,56 @@
+{
+
+    "Your Mail": "E-Mail",
+    "Your Password": "Şifre",
+    "Edit Profile": "Profil Düzenle",
+    "Adress": "Adres",
+    "Table": "Masa",
+    "Notification": "Bildirimler",
+    "Lamp": "Işık",
+    "Payment": "Ödeme", 
+    "Security": "Güvenlik",
+    "Privacy Policy": "Politikalar",
+    "Help": "Yardım",
+    "Invite Friends": "Arkadaşları Davet Et",
+    "Sign Out": "Oturumu Kapat",
+
+    "Good Morning": "Günaydın",
+    "Search": "Arama",
+    "See all": "Hepsini Gör",
+    "Most Popular": "Popüler",
+    "All": "Hepsi",
+    "Description": "Açıklama",
+    "Colors": "Renk Seçeneği",
+
+
+
+
+
+
+
+
+    "Keyboard": "Klavye",
+    "PC": "Hazır Kasa",
+    "Table": "Masa",
+    "Mouse": "Fare",
+    "Laptop": "Dizüstü",
+    "Headset": "Kulaklık", 
+    "monitor": "Vazo",
+    "Others": "Diğer",
+    "Special Offers": "Spesiyal",
+
+    "add_to_basket": "Add to basket",
+    "products": "Products",
+    "favorites": "Favorites",
+    "cart": "Shopping Cart",
+    "in-stock": "In-Stock",
+    "not-available": "Not Available",
+    "added-to-cart": "Product Added to Cart.",
+    "remove-favorite": "Remove from Favorites",
+    "remove-cart": "Remove from cart",
+    "cart-empty": "No products added to cart.",
+    "settings": "Settings",
+    "connection-error": "Please control your internet connection.",
+    "reload": "Reload",
+    "select-language": "Please select language:"
+}
